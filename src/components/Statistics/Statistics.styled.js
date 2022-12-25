@@ -13,11 +13,4 @@ export const StatItem = styled.li`
   list-style: none;
   margin: 0;
   padding: 0;
-
-  /* text-transform: capitalize;
-  &:last-child {
-    &::after {
-      content: '%';
-    }
-  } */
 `;
